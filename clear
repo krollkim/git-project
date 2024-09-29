@@ -1,0 +1,43 @@
+[33mcommit 16c54a6dc64e0f03998468f0a635f9fb0cf4e7b5[m[33m ([m[1;36mHEAD -> [m[1;32mNewFeature[m[33m)[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Sun Sep 29 16:03:22 2024 +0300
+
+    added links & restructured page
+
+[33mcommit 78f1be8c94912e18254bcf801bfb4d168226ae15[m[33m ([m[1;31morigin/masterB[m[33m, [m[1;32mmasterB[m[33m)[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Sat Sep 28 19:42:16 2024 +0300
+
+    added files
+
+[33mcommit 8203bb79eb1c8889f29d54cdb46c13b93c27370c[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Sat Sep 28 19:20:10 2024 +0300
+
+    reverting the revert back
+
+[33mcommit 291a1d1e83d17008ac60eb8e1b94a682f11096e3[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Sat Sep 28 18:33:00 2024 +0300
+
+    Revert "added link to udemy"
+    
+    This reverts commit a62158175e7beae19820e5ac7550668d9d4633f5.
+
+[33mcommit a62158175e7beae19820e5ac7550668d9d4633f5[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Mon Sep 23 15:42:11 2024 +0300
+
+    added link to udemy
+
+[33mcommit 52ca48c165c46102ada36bdbd5d26873be59155b[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Mon Sep 23 15:13:14 2024 +0300
+
+    initial commit
+
+[33mcommit 4ea7cb40ba074d534292d67b1083312e3b7d88f4[m
+Author: krollkim <kimkroll2000@gmail.com>
+Date:   Mon Sep 23 14:54:46 2024 +0300
+
+    first commit
